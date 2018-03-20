@@ -1,0 +1,69 @@
+09:46:51.179 INFO  - Processing command line option -hwspec C:\RA104-2015\lab3\SDK\SDK_Export\hw\HelloWorld.xml. 
+09:54:00.298 ERROR - Checking FPGA configuration failed..Connection to Board Failed
+
+
+    Failed to Open JTAG Cable
+    Cable target is not connected to the host
+ 
+09:56:21.129 WARN  - Terminating existing sessions on processor microblaze_0 
+09:56:25.288 INFO  - FPGA configured successfully with bitstream "C:/RA104-2015/lab3/SDK/SDK_Workspace/lab3_hw_platform/download.bit" 
+10:04:00.525 WARN  - Terminating existing sessions on processor microblaze_0 
+10:04:04.729 INFO  - FPGA configured successfully with bitstream "C:/RA104-2015/lab3/SDK/SDK_Workspace/lab3_hw_platform/download.bit" 
+10:05:30.185 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+10:05:33.998 ERROR - Unexpected error while launching program. java.lang.RuntimeException: No Active System
+
+	at com.xilinx.sdk.targetmanager.internal.TM.stop(Unknown Source)
+	at com.xilinx.sdk.targetmanager.internal.CPURunSession.terminate(Unknown Source)
+
+10:06:32.312 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+10:06:42.157 ERROR - Unexpected error while launching program. java.lang.RuntimeException: No Active System
+
+	at com.xilinx.sdk.targetmanager.internal.TM.stop(Unknown Source)
+	at com.xilinx.sdk.targetmanager.internal.CPURunSession.terminate(Unknown Source)
+
+10:07:22.627 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+10:07:28.753 ERROR - Unexpected error while launching program. java.lang.RuntimeException: No Active System
+
+	at com.xilinx.sdk.targetmanager.internal.TM.stop(Unknown Source)
+	at com.xilinx.sdk.targetmanager.internal.CPURunSession.terminate(Unknown Source)
+
+10:07:45.862 WARN  - Terminating existing sessions on processor microblaze_0 
+10:08:02.768 WARN  - Terminating existing sessions on processor microblaze_0 
+10:08:17.270 WARN  - Terminating existing sessions on processor microblaze_0 
+10:09:16.413 WARN  - Terminating existing sessions on processor microblaze_0 
+10:09:32.649 WARN  - Terminating existing sessions on processor microblaze_0 
+10:09:38.991 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+10:11:36.311 INFO  - Processing command line option -hwspec C:\RA104-2015\lab3\SDK\SDK_Export\hw\HelloWorld.xml. 
+10:12:33.172 INFO  - FPGA configured successfully with bitstream "C:/RA104-2015/lab3/SDK/SDK_Workspace/lab3_hw_platform/download.bit" 
+10:14:31.582 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+10:15:12.630 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+10:16:44.088 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+10:18:39.450 ERROR - Unable to disconnect from existing targets java.lang.NullPointerException
+	at com.xilinx.sdk.targetmanager.internal.json.XMDJSONProcess.issueCommand(Unknown Source)
+	at com.xilinx.sdk.targetmanager.internal.TM.disconnectTarget(Unknown Source)
+
+10:18:39.465 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+10:19:00.374 INFO  - Processing command line option -hwspec C:\RA104-2015\lab3\SDK\SDK_Export\hw\HelloWorld.xml. 
+10:19:42.643 INFO  - FPGA configured successfully with bitstream "C:/RA104-2015/lab3/SDK/SDK_Workspace/lab3_hw_platform/download.bit" 
+10:21:39.224 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+10:22:08.842 INFO  - Processing command line option -hwspec C:\RA104-2015\lab3\SDK\SDK_Export\hw\HelloWorld.xml. 
+10:23:03.509 INFO  - FPGA configured successfully with bitstream "C:/RA104-2015/lab3/SDK/SDK_Workspace/lab3_hw_platform/download.bit" 
+10:24:06.339 WARN  - Terminating existing sessions on processor microblaze_0 
+10:24:10.434 INFO  - FPGA configured successfully with bitstream "C:/RA104-2015/lab3/SDK/SDK_Workspace/lab3_hw_platform/download.bit" 
+10:24:45.841 WARN  - Terminating existing sessions on processor microblaze_0 
+10:24:49.990 INFO  - FPGA configured successfully with bitstream "C:/RA104-2015/lab3/SDK/SDK_Workspace/lab3_hw_platform/download.bit" 
+10:25:10.425 WARN  - Terminating existing sessions on processor microblaze_0 
+10:25:14.142 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+10:25:28.203 INFO  - Processing command line option -hwspec C:\RA104-2015\lab3\SDK\SDK_Export\hw\HelloWorld.xml. 
+10:25:45.890 INFO  - FPGA configured successfully with bitstream "C:/RA104-2015/lab3/SDK/SDK_Workspace/lab3_hw_platform/download.bit" 
+10:26:06.768 ERROR - Port COM1 is already in use. 
+10:27:08.456 ERROR - Unable to disconnect from existing targets java.lang.NullPointerException
+	at com.xilinx.sdk.targetmanager.internal.json.XMDJSONProcess.issueCommand(Unknown Source)
+	at com.xilinx.sdk.targetmanager.internal.TM.disconnectTarget(Unknown Source)
+
+10:27:08.504 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+10:28:16.428 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+10:29:01.196 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+10:29:53.853 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+10:30:57.435 INFO  - FPGA configured successfully with bitstream "C:/RA104-2015/lab3/SDK/SDK_Workspace/lab3_hw_platform/download.bit" 
+10:31:44.904 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  

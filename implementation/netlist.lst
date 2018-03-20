@@ -1,0 +1,15 @@
+C:\RA104-2015\lab3\implementation\HelloWorld.ngc 1521534977
+C:/RA104-2015/lab3/implementation/HelloWorld_dip_switches_wrapper.ngc 1521534951
+C:/RA104-2015/lab3/implementation/HelloWorld_rs232_wrapper.ngc 1521534937
+C:/RA104-2015/lab3/implementation/HelloWorld_proc_sys_reset_0_wrapper.ngc 1521534861
+C:/RA104-2015/lab3/implementation/HelloWorld_clock_generator_0_wrapper.ngc 1521534964
+C:/RA104-2015/lab3/implementation/HelloWorld_microblaze_0_ilmb_wrapper.ngc 1521534955
+C:/RA104-2015/lab3/implementation/HelloWorld_microblaze_0_dlmb_wrapper.ngc 1521534958
+C:/RA104-2015/lab3/implementation/HelloWorld_axi4lite_0_wrapper.ngc 1521534966
+C:/RA104-2015/lab3/implementation/HelloWorld_microblaze_0_wrapper.ngc 1521534961
+C:/RA104-2015/lab3/implementation/HelloWorld_microblaze_0_i_bram_ctrl_wrapper.ngc 1521534869
+C:/RA104-2015/lab3/implementation/HelloWorld_microblaze_0_d_bram_ctrl_wrapper.ngc 1521534879
+C:/RA104-2015/lab3/implementation/HelloWorld_debug_module_wrapper.ngc 1521534917
+C:/RA104-2015/lab3/implementation/HelloWorld_leds_wrapper.ngc 1521534944
+C:/RA104-2015/lab3/implementation/HelloWorld_microblaze_0_bram_block_wrapper.ngc 1521534884
+OK

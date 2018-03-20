@@ -1,0 +1,7 @@
+INFILE=C:\RA104-2015\lab3\implementation\HelloWorld.ncd
+OUTFILE=C:\RA104-2015\lab3\implementation\HelloWorld.bit
+FAMILY=Spartan6
+PART=xc6slx45-2fgg676
+WORKINGDIR=C:\RA104-2015\lab3\implementation
+LICENSE=ISE
+USER_INFO=209858334_178080923_210593072_268
